@@ -30,6 +30,9 @@ Parents can:
 
 👉 [Download the latest version](https://github.com/bitbloomapp/bitbloom-releases/releases/latest)
 
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/bitbloomapp/bitbloom-releases/releases/download/v0.1-alpha/bitbloom-v0.1-alpha.apk)
+
+
 Version naming follows semantic tags:  
 Example: `v0.1-alpha`, `v0.2-beta`, etc.
 
